@@ -124,7 +124,7 @@ h5,
 h6 {
 	font-family: 'Fredoka One', cursive;
 	font-weight: normal;
-	color: rgb(171, 178, 174);
+	color: rgb(91, 92, 98);
 	margin-top: 0px;
 	font-style: normal;
 	font-weight: 500;
@@ -168,7 +168,7 @@ p {
 	margin-bottom: 15px;
 }
 hr {
-	border-bottom: 1px solid #0040ff;
+	border-bottom: 1px solid #eceff8;
 	border-top: 0 none;
 	margin: 30px 0;
 	padding: 0;
@@ -918,9 +918,9 @@ label {
 }
 /* 7. contador */
 .section-bg-two {
-	background-image: -moz-linear-gradient( 0deg, rgb(255,79,88) 0%, rgb(255,180,0) 100%);
-	background-image: -webkit-linear-gradient( 0deg, rgb(255,79,88) 0%, rgb(255,180,0) 100%);
-	background-image: -ms-linear-gradient( 0deg, rgb(255,79,88) 0%, rgb(255,180,0) 100%);
+	background-image: -moz-linear-gradient( 0deg, rgb(115, 10, 12) 0%, rgb(171, 178, 174) 100%);
+	background-image: -webkit-linear-gradient( 0deg, rgb(115, 10, 12) 0%, rgb(214, 28, 67) 100%);
+	background-image: -ms-linear-gradient( 0deg, rgb(115, 10, 12)0%, rgb(171, 178, 174) 100%);
 }
 .single-counter h3 {
 	font-size: 48px;
