@@ -24,8 +24,7 @@
     <link rel="stylesheet" href="assets/css/common.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
 
 </head>
 
@@ -71,11 +70,11 @@
                                 </li>
                             </ul>
                             <ul class="right">
-                                <li><a href="#!"><i class="fab fa-facebook"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-tiktok"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-youtube"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-whatsapp"></i></a></li>
-                            </ul>                            
+                                <li><a href="https://www.facebook.com/share/1ANyqLSR5J/?mibextid=qi2Omg"><i class="bi bi-facebook"></i></a></li> <!-- Icono de Facebook -->
+                                <li><a href="https://vm.tiktok.com/ZMBHrrjC8/"><i class="bi bi-tiktok"></i></a></li>   <!-- Icono de TikTok -->
+                                <li><a href="https://www.youtube.com/"><i class="bi bi-youtube"></i></a></li>   <!-- Icono de YouTube -->
+                                <li><a href="https://wa.link/7l7ik7"><i class="bi bi-whatsapp"></i></a></li>   <!-- Icono de WhatsApp -->
+                            </ul>                        
                         </div>
                     </div>
                 </div>
@@ -115,7 +114,7 @@
                             <div class="header-right">
                                 <div class="header-btn">
                                     <a class="thm-btn" href="https://wa.link/7l7ik7" target="_blank">
-                                        <i class="fa fa-whatsapp"></i> WhatsApp
+                                    <i class="bi bi-whatsapp"></i> WhatsApp
                                     </a>
                                 </div>
         
