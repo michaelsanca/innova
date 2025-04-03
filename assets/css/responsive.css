@@ -1,0 +1,420 @@
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .about-img img {
+        margin-top: 47px;
+    }
+    .footer-social ul li {
+        padding-right: 20px;
+    }
+    .hero-slider {
+        min-height: 600px;
+    }
+    .shop_thumb_tab ul li button {
+        max-width: 87px;
+    }
+    .product_details_img {
+        width: 77%;
+    }
+    .shop_thumb_tab {
+        width: 23%;
+    }
+    .google-map {
+        height: 500px;
+    }
+    .google-map iframe {
+        height: 500px;
+    }
+
+}
+/* XL Extra */
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .header-btn {
+        margin-left: 25px;
+    }
+    .main-menu ul li {
+        margin-right: 33px;
+    }
+}
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .header-top .left li {
+        margin-right: 10px;
+        padding-left: 10px;
+    }
+    .header-top .right li {
+        padding: 11px 10px;
+    }
+    .header-button {
+        margin-left: 20px;
+    }
+    .about-img img {
+        margin-top: 120px;
+        width: 100%;
+    }
+    .about-content h2 {
+        font-size: 31px;
+        margin-bottom: 20px;
+    }
+    .about-content {
+        padding: 80px 0;
+    }
+    .about-content p {
+        margin-bottom: 30px;
+    }
+    .feature-item {
+        padding: 40px 35px;
+    }
+    .blog-area .blog-item ul li {
+        margin-bottom: 5px;
+    }
+    .footer-top-content span {
+        font-size: 16px;
+    }
+    .footer-social ul li a {
+        margin-right: 5px;
+    }
+    .hero-slider {
+        min-height: 600px;
+    }
+    .blog-item .blog-content .blog-title {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .hero-slider {
+        min-height: 550px;
+    }
+    .slide-inner .slide-title h2 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .slide-inner .slide-span span {
+        font-size: 28px;
+    }
+    .main-menu ul li {
+        margin-right: 30px;
+    }
+    .blog-wrapper, .post-details {
+        margin-right: 0;
+    }
+    .blog-sidebar {
+        padding-left: 0;
+    }
+    .post-item .post-content, .post-details {
+        padding: 35px 40px;
+    }
+    .post-details .post-thumb {
+        margin-left: -40px;
+        margin-right: -40px;
+        margin-top: -35px;
+    }
+    .product_details_img {
+        width: 78%;
+    }
+    .shop_thumb_tab {
+        width: 22%;
+    }
+    .shop_thumb_tab ul li button {
+        max-width: 74px;
+    }
+    .contact-from-inner {
+        padding: 70px 60px;
+    }
+    .google-map {
+        height: 500px;
+    }
+    .google-map iframe {
+        height: 500px;
+    }
+    .footer-social ul li span {
+        display: none;
+    }
+    .checkout-section .checkout.woocommerce-checkout .col2-set {
+        padding-right: 40px;
+    }
+    .about-content-two.pl-50 {
+        padding-left: 20px;
+    }
+}
+
+ 
+/* MD Device :768px. */
+@media (max-width: 991px) {
+    .school-fecilities-single .icon {
+        float: none;
+        margin-top: 0;
+    }
+    .school-fecilities-single .icon-box-content {
+        margin-left: 0;
+        margin-top: 25px;
+    }
+    .blog-area .blog-item ul li {
+        margin-bottom: 5px;
+    }
+    .footer-top-icon {
+        float: none;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    .footer-top-content span {
+        font-size: 16px;
+    }
+    .footer-social ul li {
+        margin-left: 14px;
+        padding-right: 0;
+    }
+    .footer-social ul li a {
+        margin-right: 0;
+    }
+    .contact-map iframe{
+        min-height: 500px;
+    }
+    .header-bottom-area {
+        padding: 25px 0px;
+    }
+    .footer-social ul li::before, .header-cart, .header-btn {
+        display: none;
+    }
+    .header-area .container-fluid {
+        max-width: 720px;
+    }
+    .blog-wrapper, .post-details {
+        margin-right: 0;
+    }
+    .blog-sidebar {
+        padding-left: 0;
+        margin-top: 20px;
+    }
+    .post-item .post-content, .post-details {
+        padding: 35px 30px;
+    }
+    .post-details .post-thumb {
+        margin-left: -30px;
+        margin-right: -30px;
+        margin-top: -35px;
+    }
+    .contact-from-inner {
+        padding: 60px 40px;
+    }
+    .google-map, .google-map iframe {
+        height: 400px;
+    }
+    .mb--none-140 {
+        margin-bottom: -100px;
+    }
+    .page-title-area {
+        padding: 140px 0;
+    }
+    .footer-social ul li span {
+        display: none;
+    }
+    .teacher-single-info {
+        padding-left: 10px;
+    }
+    .teacher-single-info h3 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    .page-title h2 {
+        font-size: 36px;
+    }
+    .about-content-two.pl-50 {
+        padding-left: 0;
+    }
+    .header-top .left {
+        display: none;
+    }
+    .header-top .right {
+        float: none;
+        text-align: center;
+    }
+}
+
+ 
+/* SM Device :320px. */
+@media (max-width: 767px) {
+    .header-bottom-area {
+        padding: 23px 0;
+    }
+    .banner-content h3 {
+        font-size: 26px;
+    }
+    .banner-content h2 {
+        font-size: 43px;
+    }
+    .about-content h2 {
+        font-size: 30px;
+    }
+    .section-title .title {
+        font-size: 30px;
+    }
+    .school-fecilities-single .icon {
+        float: none;
+        margin-top: 0;
+    }
+    .school-fecilities-single .icon-box-content {
+        margin-left: 0;
+        margin-top: 25px;
+    }
+    .blog-area .blog-item ul li {
+        margin-bottom: 5px;
+    }
+    .footer-top-icon {
+        float: none;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    .portfolio-menu li {
+        font-size: 14px;
+        padding: 0 20px 18px;
+        margin-bottom: 18px;
+    }
+    .footer-top-single {
+        border-right: 0;
+        padding-bottom: 0px;
+    }
+    .footer-top-wrapper {
+        border-bottom: 0;
+    }
+    .footer-bottom {
+        padding-top: 55px;
+    }
+    .page-title h2 {
+        font-size: 33px;
+    }
+    .contact-form h3 {
+        font-size: 25px;
+    }
+    .contact-info h3 {
+        font-size: 25px;
+    }
+    .contact-map iframe{
+        min-height: 400px;
+    }
+    .post-item .post-content .post-title,
+    .blog-content-area .post-details .post-content .post-title {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .post-item .video-icon, .video-icon {
+        height: 80px;
+        width: 80px;
+        line-height: 80px;
+    }
+    .post-item .post-content .post-meta span,
+    .post-details .post-content .post-meta span {
+        margin-bottom: 4px;
+    }
+    .format-quote blockquote {
+        padding: 50px 30px;
+    }
+    .post-details blockquote::before {
+        display: none;
+    }
+    .post-details blockquote {
+        padding: 25px;
+    }
+    .post-tag-wrapper .blog-post-tag a {
+        margin-bottom: 10px;
+    }
+    .blog-share-icon {
+        margin-top: 15px;
+    }
+    .author-box .author-thumb {
+        float: none;
+        margin-right: 0;
+        margin-bottom: 25px;
+    }
+    .comment-box .comment-avatar {
+        float: none;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .children {
+        margin-left: 0;
+    }
+    .footer-social ul li::before, .header-cart, .header-btn, .footer-social ul li span {
+        display: none;
+    }
+    .copyright-text {
+        text-align: center;
+    }
+    .footer-social ul li a {
+        margin-right: 0;
+    }
+    .footer-social ul li {
+        margin-left: 0;
+        padding-right: 0;
+        margin-right: 10px;
+    }
+    .footer-social ul li:last-child {
+        margin-right: 0;
+    }
+    .header-area .container-fluid {
+        max-width: 450px;
+    }
+    .page-title-area {
+        padding: 130px 0;
+    }
+    .post-item .post-content, .post-details {
+        padding: 30px 25px;
+    }
+    .post-details .post-thumb {
+        margin-left: -25px;
+        margin-right: -25px;
+        margin-top: -30px;
+    }
+    .pagination ul li {
+        margin-right: 6px;
+    }
+    .pagination ul li a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 12px;
+    }
+    .product_details_img {
+        width: 78%;
+    }
+    .shop_thumb_tab {
+        width: 22%;
+    }
+    .shop_thumb_tab ul li {
+        margin-bottom: 15px;
+        padding-left: 15px;
+    }
+    .shop_thumb_tab ul li button {
+        max-width: 60px;
+    }
+    .product-details h2 {
+        font-size: 24px;
+    }
+    .contact-from-inner {
+        padding: 40px 20px;
+    }
+    .copyright-text {
+        margin-top: 18px;
+        text-align: center;
+    }
+    .footer-social ul {
+        justify-content: center;
+    }
+    .teacher-single-info {
+        padding-left: 0;
+    }
+    .blog-item .blog-content .blog-meta span:not(:last-child)::before {
+        display: none;
+    }
+    .blog-item .blog-content .blog-meta span {
+        padding-right: 0;
+    }
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+ 
+}
