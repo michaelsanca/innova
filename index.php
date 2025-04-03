@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="assets/css/common.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-   
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
 </head>
 
 <body>
@@ -57,7 +57,7 @@
        <!-- volver al principio -->
 
      <!-- inicio del encabezado -->
-        <header class="header-area">
+     <header class="header-area">
             <div class="header-top">
                 <div class="container">
                     <div class="row">
@@ -69,11 +69,12 @@
                                 </li>
                             </ul>
                             <ul class="right">
-                                <li><a href="#!"><i class="fab fa-facebook"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-tiktok"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-youtube"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-whatsapp"></i></a></li>
-                            </ul>                            
+                                <li><a href="https://www.facebook.com/share/1ANyqLSR5J/?mibextid=qi2Omg"><i class="bi bi-facebook"></i></a></li> <!-- Icono de Facebook -->
+                                <li><a href="https://vm.tiktok.com/ZMBHrrjC8/"><i class="bi bi-tiktok"></i></a></li>   <!-- Icono de TikTok -->
+                                <li><a href="https://www.youtube.com/"><i class="bi bi-youtube"></i></a></li>   <!-- Icono de YouTube -->
+                                <li><a href="https://wa.link/7l7ik7"><i class="bi bi-whatsapp"></i></a></li>   <!-- Icono de WhatsApp -->
+                            </ul>
+  
                         </div>
                     </div>
                 </div>
@@ -83,7 +84,7 @@
                     <div class="row align-items-center">
                         <div class="col-xl-2 col-lg-2 col-6">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo/innova.png" alt=""></a>
+                                <a href="index.html"><img src="assets/img/logo/innova.png" style="width: 50%;" alt=""></a>
                             </div>
                         </div>
                         <div class="col-xl-7 col-lg-7 d-none d-lg-block">
@@ -113,23 +114,16 @@
                             <div class="header-right">
                                 <div class="header-btn">
                                     <a class="thm-btn" href="https://wa.link/7l7ik7" target="_blank">
-                                        <i class="fa fa-whatsapp"></i> WhatsApp
+                                        <i class="bi bi-whatsapp"></i> WhatsApp
                                     </a>
                                 </div>
-        
-                                <!-- Menú móvil -->
                                 <div class="side-mobile-menu">
-                                    <!-- Botón de cierre (X) -->
                                     <button class="side-info-close"><i class="far fa-times"></i></button>
                                     <div class="mobile-menu"></div>
                                 </div>
-        
-                                <!-- Icono del menú hamburguesa -->
                                 <div class="side-menu-icon d-lg-none">
                                     <button class="side-toggle"><i class="far fa-bars"></i></button>
                                 </div>
-        
-                                <!-- Superposición del menú (fondo oscuro cuando el menú está abierto) -->
                                 <div class="offcanvas-overlay"></div>
                             </div>
                         </div>
@@ -211,8 +205,8 @@
                         <div class="swiper-button-prev"></div>
                     </div>
                 </div>
-            </section>
-        <!-- fin del héroe -->
+                </section>
+            <!-- fin del héroe -->
 
             <!-- inicio del área de funciones -->
             <section class="feature-area pt-110 pb-80">
@@ -287,7 +281,7 @@
             </section>
            <!-- fin del área de características -->
 
-        <!-- acerca del inicio del área -->
+            <!-- acerca del inicio del área -->
             <section class="about-area section-bg-one section-notch">
                 <div class="container">
                     <div class="row">
