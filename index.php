@@ -113,21 +113,24 @@
                         <div class="col-xl-3 col-lg-3 col-6">
                             <div class="header-right">
                                 <div class="header-btn">
-<<<<<<< HEAD
-                                    <a class="thm-btn" href="contact.html">whatsapp</a>
-=======
                                     <a class="thm-btn" href="https://wa.link/7l7ik7" target="_blank">
                                         <i class="fa fa-whatsapp"></i> WhatsApp
                                     </a>
->>>>>>> 7f0015cbafe29f1b35fb2bc9e6c2127f78504e93
                                 </div>
+        
+                                <!-- Menú móvil -->
                                 <div class="side-mobile-menu">
+                                    <!-- Botón de cierre (X) -->
                                     <button class="side-info-close"><i class="far fa-times"></i></button>
                                     <div class="mobile-menu"></div>
                                 </div>
+        
+                                <!-- Icono del menú hamburguesa -->
                                 <div class="side-menu-icon d-lg-none">
                                     <button class="side-toggle"><i class="far fa-bars"></i></button>
                                 </div>
+        
+                                <!-- Superposición del menú (fondo oscuro cuando el menú está abierto) -->
                                 <div class="offcanvas-overlay"></div>
                             </div>
                         </div>
@@ -413,29 +416,29 @@
                         <div class="col-xl-3 col-lg-3 col-md-6">
                             <div class="single-counter text-center pb-30">
                                 <img src="assets/img/icon/c-icon1.png" alt="">
-                                <h3><span class="plus">+</span><span class="odometer" data-count="20000">000</span></h3>
-                                <p>Alumnos</p>
+                                <h3><span class="odometer" data-count="2500">00</span><span class="plus">+</span></h3>
+                                <p>Students Enrolled</p>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-6">
                             <div class="single-counter text-center pb-30">
-                                <img src="assets/img/icon/c-icon1.png" alt="">
-                                <h3><span class="plus">+</span><span class="odometer" data-count="2000">00</span></h3>
-                                <p>Ingresantes</p>
+                                <img src="assets/img/icon/c-icon2.png" alt="">
+                                <h3><span class="odometer" data-count="912">00</span><span class="plus">+</span></h3>
+                                <p>Best Awards Won</p>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-6">
                             <div class="single-counter text-center pb-30">
                                 <img src="assets/img/icon/c-icon3.png" alt="">
-                                <h3><span class="plus">+</span><span class="odometer" data-count="8">00</span></h3>
-                                <p> años de Experiencia</p>
+                                <h3><span class="odometer" data-count="370">00</span><span class="plus">+</span></h3>
+                                <p>Classes Completed</p>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-6">
                             <div class="single-counter text-center pb-30">
                                 <img src="assets/img/icon/c-icon4.png" alt="">
-                                <h3><span class="odometer" data-count="4">00</span></h3>
-                                <p>Expertos en preparacion en los grupos A , B , C y D</p>
+                                <h3><span class="odometer" data-count="648">00</span><span class="plus">+</span></h3>
+                                <p>Our Total Courses</p>
                             </div>
                         </div>
                     </div>
@@ -644,16 +647,16 @@
                         <div class="col-xl-12">
                             <div class="brand-active owl-carousel">
                                 <div class="single-brand">
-                                    <img src="assets/img/brand/foto1.png" alt="brand image">
+                                    <img src="assets/img/brand/brand-01.jpg" alt="brand image">
                                 </div>
                                 <div class="single-brand">
-                                    <img src="assets/img/brand/foto2.png" alt="brand image">
+                                    <img src="assets/img/brand/brand-02.jpg" alt="brand image">
                                 </div>
                                 <div class="single-brand">
-                                    <img src="assets/img/brand/foto3.png" alt="brand image">
+                                    <img src="assets/img/brand/brand-03.jpg" alt="brand image">
                                 </div>
                                 <div class="single-brand">
-                                    <img src="assets/img/brand/foto4.png" alt="brand image">
+                                    <img src="assets/img/brand/brand-04.jpg" alt="brand image">
                                 </div>
                                 <div class="single-brand">
                                     <img src="assets/img/brand/brand-05.jpg" alt="brand image">

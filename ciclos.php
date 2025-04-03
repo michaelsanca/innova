@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -84,14 +85,14 @@
                     <div class="row align-items-center">
                         <div class="col-xl-2 col-lg-2 col-6">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo/innova.png" alt=""></a>
+                                <a href="index.html"><img src="assets/img/logo/innova.png"  style="width: 50%;" alt=""></a>
                             </div>
                         </div>
                         <div class="col-xl-7 col-lg-7 d-none d-lg-block">
                             <div class="main-menu-wrap">
                                 <nav id="mobile-menu" class="main-menu">
                                     <ul class="main-menu-list ul_li">
-                                        <li class="active">
+                                        <li>
                                             <a href="index.php">INICIO</a>
                                         </li>
                                         <li>
@@ -100,7 +101,7 @@
                                         <li class="menu-item-has-children">
                                             <a href="ingresantes.php">INGRESANTES</a>
                                         </li>
-                                        <li class="menu-item-has-children">
+                                        <li class="menu-item-has-children active">
                                             <a href="ciclos.php">CICLOS</a>
                                         </li>
                                         <li class="menu-item-has-children">
@@ -113,21 +114,24 @@
                         <div class="col-xl-3 col-lg-3 col-6">
                             <div class="header-right">
                                 <div class="header-btn">
-<<<<<<< HEAD
-                                    <a class="thm-btn" href="contact.html">whatsapp</a>
-=======
                                     <a class="thm-btn" href="https://wa.link/7l7ik7" target="_blank">
                                         <i class="fa fa-whatsapp"></i> WhatsApp
                                     </a>
->>>>>>> 7f0015cbafe29f1b35fb2bc9e6c2127f78504e93
                                 </div>
+        
+                                <!-- Menú móvil -->
                                 <div class="side-mobile-menu">
+                                    <!-- Botón de cierre (X) -->
                                     <button class="side-info-close"><i class="far fa-times"></i></button>
                                     <div class="mobile-menu"></div>
                                 </div>
+        
+                                <!-- Icono del menú hamburguesa -->
                                 <div class="side-menu-icon d-lg-none">
                                     <button class="side-toggle"><i class="far fa-bars"></i></button>
                                 </div>
+        
+                                <!-- Superposición del menú (fondo oscuro cuando el menú está abierto) -->
                                 <div class="offcanvas-overlay"></div>
                             </div>
                         </div>
@@ -413,29 +417,29 @@
                         <div class="col-xl-3 col-lg-3 col-md-6">
                             <div class="single-counter text-center pb-30">
                                 <img src="assets/img/icon/c-icon1.png" alt="">
-                                <h3><span class="plus">+</span><span class="odometer" data-count="20000">000</span></h3>
-                                <p>Alumnos</p>
+                                <h3><span class="odometer" data-count="2500">00</span><span class="plus">+</span></h3>
+                                <p>Students Enrolled</p>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-6">
                             <div class="single-counter text-center pb-30">
-                                <img src="assets/img/icon/c-icon1.png" alt="">
-                                <h3><span class="plus">+</span><span class="odometer" data-count="2000">00</span></h3>
-                                <p>Ingresantes</p>
+                                <img src="assets/img/icon/c-icon2.png" alt="">
+                                <h3><span class="odometer" data-count="912">00</span><span class="plus">+</span></h3>
+                                <p>Best Awards Won</p>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-6">
                             <div class="single-counter text-center pb-30">
                                 <img src="assets/img/icon/c-icon3.png" alt="">
-                                <h3><span class="plus">+</span><span class="odometer" data-count="8">00</span></h3>
-                                <p> años de Experiencia</p>
+                                <h3><span class="odometer" data-count="370">00</span><span class="plus">+</span></h3>
+                                <p>Classes Completed</p>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-6">
                             <div class="single-counter text-center pb-30">
                                 <img src="assets/img/icon/c-icon4.png" alt="">
-                                <h3><span class="odometer" data-count="4">00</span></h3>
-                                <p>Expertos en preparacion en los grupos A , B , C y D</p>
+                                <h3><span class="odometer" data-count="648">00</span><span class="plus">+</span></h3>
+                                <p>Our Total Courses</p>
                             </div>
                         </div>
                     </div>
@@ -644,16 +648,16 @@
                         <div class="col-xl-12">
                             <div class="brand-active owl-carousel">
                                 <div class="single-brand">
-                                    <img src="assets/img/brand/foto1.png" alt="brand image">
+                                    <img src="assets/img/brand/brand-01.jpg" alt="brand image">
                                 </div>
                                 <div class="single-brand">
-                                    <img src="assets/img/brand/foto2.png" alt="brand image">
+                                    <img src="assets/img/brand/brand-02.jpg" alt="brand image">
                                 </div>
                                 <div class="single-brand">
-                                    <img src="assets/img/brand/foto3.png" alt="brand image">
+                                    <img src="assets/img/brand/brand-03.jpg" alt="brand image">
                                 </div>
                                 <div class="single-brand">
-                                    <img src="assets/img/brand/foto4.png" alt="brand image">
+                                    <img src="assets/img/brand/brand-04.jpg" alt="brand image">
                                 </div>
                                 <div class="single-brand">
                                     <img src="assets/img/brand/brand-05.jpg" alt="brand image">
