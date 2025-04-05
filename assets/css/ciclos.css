@@ -1,0 +1,56 @@
+/* Imagen de fondo con opacidad */
+#ciclos-preparacion {
+    background-image: url('/Academia/public/img/container/fondo.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Capa semitransparente */
+    background-blend-mode: darken; /* Mezcla la capa con la imagen */
+    padding: 50px 0; /* Espaciado superior e inferior */
+}
+
+/* Fondo oscuro para las tarjetas */
+.card.bg-dark {
+    background-color: rgb(118, 9, 48) !important;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombras suaves */
+}
+
+/* Centrar los textos e iconos */
+.card-body {
+    display: flex; /* Activar Flexbox */
+    flex-direction: column; /* Organizar en columna */
+    justify-content: center; /* Centrar verticalmente */
+    align-items: center; /* Centrar horizontalmente */
+    text-align: center; /* Alinear texto al centro */
+    height: 100%; /* Asegurar que ocupe toda la altura */
+    padding: 20px; /* Espaciado interno */
+}
+
+/* Ajuste de íconos */
+.card-body i {
+    font-size: 3rem; /* Tamaño del ícono */
+    margin-bottom: 10px; /* Espaciado entre ícono y texto */
+}
+
+/* Imagen en la tarjeta inferior */
+.card img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+/* Espaciado uniforme entre filas y columnas */
+.row-cols-md-3 > .col {
+    margin-bottom: 20px; /* Espaciado inferior entre tarjetas */
+}
+/* Cambiar el color del texto dentro de las tarjetas */
+.card-body .card-title, 
+.card-body .card-text {
+    color: white; /* Cambia el color del texto a blanco */
+}
+
+/* Cambiar el color de los íconos dentro de las tarjetas */
+.card-body i {
+    color: white; /* Cambia el color de los íconos a blanco */
+}

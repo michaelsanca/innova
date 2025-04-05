@@ -142,7 +142,7 @@
                             <div class="slide-inner slide-overlay slide-bg-image" data-background="assets/img/slider/slide-01.png">
                                 <div class="container">
                                     <div data-swiper-parallax="200" class="slide-span">
-                                        <span>Academia Pre-Universitaria</span>
+                                    <span style="font-size: 20px;">Academia Pre-Universitaria</span>
                                     </div>
                                     <div data-swiper-parallax="300" class="slide-title">
                                         <h2>INNOVA</h2>
@@ -161,7 +161,7 @@
                             <div class="slide-inner slide-overlay slide-bg-image" data-background="assets/img/slider/slide-02.png">
                                 <div class="container">
                                     <div data-swiper-parallax="200" class="slide-span">
-                                        <span>Academia Pre-Universitaria</span>
+                                    <span style="font-size: 20px;">Academia Pre-Universitaria</span>
                                     </div>
                                     <div data-swiper-parallax="300" class="slide-title">
                                         <h2>INNOVA</h2>
@@ -180,7 +180,7 @@
                             <div class="slide-inner slide-overlay slide-bg-image" data-background="assets/img/slider/slide-03.png">
                                 <div class="container">
                                     <div data-swiper-parallax="200" class="slide-span">
-                                        <span>Academia Pre-Universitaria</span>
+                                    <span style="font-size: 20px;">Academia Pre-Universitaria</span>
                                     </div>
                                     <div data-swiper-parallax="300" class="slide-title">
                                         <h2>INNOVA</h2>
@@ -298,7 +298,7 @@
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="about-img d-none d-lg-block f-right">
-                                <img src="assets/img/about/about.png" alt="">
+                                <img src="assets/img/about/alumno.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -445,9 +445,8 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-6 col-md-9">
                             <div class="section-title text-center mb-50">
-                                <h2 class="title">Our School Gallery</h2>
-                                <p>Here is what you can expect from a house cleaning from a Handy professional. Download the app
-                                    to share further cleaning details and instructions!</p>
+                                <h2 class="title">Ultimos Ingresantes</h2>
+                                <p>Los últimos ingresantes a la universidad comienzan una nueva etapa llena de oportunidades para aprender, crecer y desarrollar habilidades clave para su futuro profesional. Con entusiasmo y dedicación, están listos para enfrentar los retos académicos y aprovechar al máximo su experiencia universitaria.</p>
                             </div>
                         </div>
                     </div>
@@ -576,9 +575,9 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-6 col-md-9">
                             <div class="section-title section-title-white text-center mb-55">
-                                <h2 class="title">Our Latest News</h2>
-                                <p>Here is what you can expect from a house cleaning from a Handy professional. Download the
-                                    app to share further cleaning details and instructions!</p>
+                                <h2 class="title">Contamos con Internado</h2>
+                                <p>En nuestro internado, ofrecemos un entorno completo y enriquecedor que incluye un comedor de calidad, dormitorios cómodos, una alimentación balanceada y un alto nivel de exigencia académica, todo con el objetivo de garantizar que sus hijos logren el éxito y se desarrollen plenamente en su formación.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -687,7 +686,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-4">
                             <div class="footer-top-single">
                                 <div class="footer-top-icon">
-                                    <img src="assets/img/icon/ft01.png" alt="">
+                                    <img src="assets/img/icon/whatsapp.png" alt="">
                                 </div>
                                 <div class="footer-top-content">
                                     <h5>Escríbenos</h5>
@@ -702,8 +701,9 @@
                                     <img src="assets/img/icon/ft02.png" alt="">
                                 </div>
                                 <div class="footer-top-content">
-                                    <h5>Send us a Message</h5>
-                                    <span>kinterschoo07@gmail.com</span>
+                                    <h5>Envíanos un mensaje</h5>
+                                    <span>academiapreuniversitariainnova <br>
+                                    @gmail.com</span>
                                 </div>
                             </div>
                         </div>
@@ -713,8 +713,8 @@
                                     <img src="assets/img/icon/ft03.png" alt="">
                                 </div>
                                 <div class="footer-top-content">
-                                    <h5>Visit our Location</h5>
-                                    <span>07 Suitland Street 120 USA</span>
+                                    <h5>Visita nuestra ubicación</h5>
+                                    <span>Av.Manuel Callo Zevallos N°145-Sicuani</span>
                                 </div>
                             </div>
                         </div>
@@ -728,29 +728,28 @@
                 <div class="row">
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="footer-widget mb-40">
-                            <h3>About Kinter</h3>
-                            <p>Monotne deplos copertve chanva andng crorate Qhanin Unique Qnderwhe Premum Convere With Uheng Mutmed Nquel Undehee Mandnge theme Qhann Unqu Qndewhe Premum Converenc With Aheing Mutmeda Nquel Undehele</p>
+                            <h3>Acerca de la Academia</h3>
+                            <p>"Innova es un centro educativo enfocado en el aprendizaje práctico y teórico, con un equipo docente altamente capacitado. Nuestra metodología innovadora permite a los estudiantes desarrollar habilidades y enfrentar retos del mundo real, preparándolos para un futuro lleno de oportunidades."</p>
                             <div class="footer-social">
-                                <h4>Follow us :</h4>
-                                <a href="#!"><i class="fab fa-twitter"></i></a>
-                                <a href="#!"><i class="fas fa-rss"></i></a>
-                                <a href="#!"><i class="fab fa-dribbble"></i></a>
-                                <a href="#!"><i class="fab fa-behance"></i></a>
-                                <a href="#!"><i class="fab fa-instagram"></i></a>
+                                <h4>Siguenos :</h4>
+                                <a href="https://www.facebook.com/share/1ANyqLSR5J/?mibextid=qi2Omg"><i class="bi bi-facebook"></i></a> <!-- Icono de Facebook -->
+                                <a href="https://vm.tiktok.com/ZMBHrrjC8/"><i class="bi bi-tiktok"></i></a>   <!-- Icono de TikTok -->
+                                <a href="https://www.youtube.com/"><i class="bi bi-youtube"></i></a>   <!-- Icono de YouTube -->
+                                <a href="https://wa.link/7l7ik7"><i class="bi bi-whatsapp"></i></a>   <!-- Icono de WhatsApp -->
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="footer-widget mb-40">
-                            <h3>Recent Blog Posts</h3>
+                            <h3>Lo Más Reciente</h3>
                             <div class="footer-post">
                                 <div class="fp-single">
                                     <div class="thumb">
-                                        <a href="blog-details.html"><img src="assets/img/blog/footer-post/footer-post01.jpg" alt=""></a>
+                                        <a href="blog-details.html"><img src="assets/img/blog/footer-post/1.png" alt=""></a>
                                     </div>
                                     <div class="content">
-                                         <span><i class="far fa-calendar-alt"></i>  24th March 2021</span>
-                                        <h5><a href="blog-details.html">Why children need a Healthy Environment</a></h5>
+                                         <span><i class="far fa-calendar-alt"></i> Sabado 29 de Marzo 2025 </span>
+                                        <h5><a href="blog-details.html">Examen para Becas</a></h5>
                                     </div>
                                 </div>
                                 <div class="fp-single">
@@ -758,8 +757,8 @@
                                         <a href="blog-details.html"><img src="assets/img/blog/footer-post/footer-post02.jpg" alt=""></a>
                                     </div>
                                     <div class="content">
-                                         <span><i class="far fa-calendar-alt"></i> 24th March 2022</span>
-                                        <h5><a href="blog-details.html">Planting Seeds in the Hearts of Preschoolers</a></h5>
+                                         <span><i class="far fa-calendar-alt"></i> Inicio de Ciclo P.O</span>
+                                        <h5><a href="blog-details.html">Lunes 7 de Abril del 2025</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -767,11 +766,11 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="footer-widget mb-40">
-                            <h3>Newsletter Subscription</h3>
-                            <p>Enter your email and get latest updates and offers subscribe us</p>
+                            <h3>Contactanos</h3>
+                            <p>Introduce tu email y un asesor se contactara con usted </p>
                             <form action="#!">
-                                <input type="text" placeholder="Enter your email">
-                                <button class="thm-btn">Subscribe Now!</button>
+                                <input type="text" placeholder="Introduce tu correo electrónico">
+                                <button class="thm-btn">¡Contactanos!</button>
                             </form>
                         </div>
                     </div>
@@ -787,24 +786,20 @@
                     <div class="footer-social">
                         <ul>
                             <li>
-                                <a href="#!"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/share/1ANyqLSR5J/?mibextid=qi2Omg"><i class="fab fa-facebook-f"></i></a>
                                 <span>Facebook</span>
                             </li>
                             <li>
-                                <a href="#!"><i class="fab fa-google-plus-g"></i></a>
-                                <span>Google Plus</span>
+                                <a href="https://wa.link/7l7ik7"><i class="bi bi-whatsapp"></i></a>
+                                <span>WhatsApp</span>
                             </li>
                             <li>
-                                <a href="#!"><i class="fab fa-twitter"></i></a>
-                                <span>Twitter</span>
+                                <a href="https://www.youtube.com/"><i class="bi bi-youtube"></i></a>
+                                <span>YouTube</span>
                             </li>
                             <li>
-                                <a href="#!"><i class="fab fa-pinterest-p"></i></a>
-                                <span>Pinterest</span>
-                            </li>
-                            <li>
-                                <a href="#!"><i class="fab fa-linkedin-in"></i></a>
-                                <span>Linkedin</span>
+                                <a href="https://vm.tiktok.com/ZMBHrrjC8/"><i class="bi bi-tiktok"></i></a>
+                                <span>TikTok</span>
                             </li>
                         </ul>
                     </div>

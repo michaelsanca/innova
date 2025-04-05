@@ -1210,9 +1210,9 @@ label {
 }
 /* 11. blog */
 .section-bg-three {
-	background-image: -moz-linear-gradient( 0deg, rgb(232,90,202) 0%, rgb(252,78,101) 100%);
-	background-image: -webkit-linear-gradient( 0deg, rgb(232,90,202) 0%, rgb(252,78,101) 100%);
-	background-image: -ms-linear-gradient( 0deg, rgb(232,90,202) 0%, rgb(252,78,101) 100%);
+	background-image: -moz-linear-gradient( 0deg, rgb(211, 28, 65) 0%, rgb(119, 11, 14));
+	background-image: -webkit-linear-gradient( 0deg, rgb(211, 28, 65) 0%, rgb(119, 11, 14) 100%);
+	background-image: -ms-linear-gradient( 0deg, rgb(211, 28, 65) 0%, rgb(119, 11, 14)100%);
 }
 .blog-item .blog-image{
     overflow: hidden;
@@ -1834,11 +1834,11 @@ label {
 } 
 /* 13. footer */
 .footer-top-wrapper {
-	border-bottom: 1px solid #7346e0;
+	border-bottom: 1px solid #ffffff;
 }
 .footer-top-single {
 	padding: 35px 0;
-	border-right: 1px solid #7346e0;
+	border-right: 1px solid #e6e6e6;
 }
 .footer-top-single-2{
 	border-right: none;
@@ -1875,7 +1875,7 @@ label {
 	width: 60px;
 	height: 1px;
 	content: "";
-	background: #804bff;
+	background: #ffffff;
 }
 .footer-widget p {
 	color: #fff;
@@ -1898,7 +1898,7 @@ label {
 	color: #23cc88;
 }
 .footer-widget .fp-single:not(:last-child) {
-	border-bottom: 1px solid #7346e0;
+	border-bottom: 1px solid #ffffff;
 	padding-bottom: 24px;
 	margin-bottom: 22px;
 }
@@ -1944,7 +1944,7 @@ label {
 	padding: 0 20px;
 	background: none;
 	color: #fff;
-	border: 1px solid #7346e0;
+	border: 1px solid #ffffff;
 	margin-bottom: 25px;
 }
 .footer-widget form input:focus {
@@ -2008,16 +2008,16 @@ label {
 	margin-right: 10px;
 }
 .footer-social ul li:nth-child(2) a {
-	background: #dd4b39;
+	background: rgb(0, 215, 87);
 }
 .footer-social ul li:nth-child(3) a {
-	background: #55acee;
+	background: #ff0000;
 }
 .footer-social ul li:nth-child(4) a {
-	background: #bd081c;
+	background: rgb(0, 0, 0);
 }
 .footer-social ul li:nth-child(5) a {
-	background: #007bb6;
+	background: rgb(8, 102, 255) !important;
 }
 /* 14. título de la página */
 .banner-overlay {
@@ -2270,7 +2270,7 @@ label {
 }
 .contact-from-inner {
 	padding: 80px 110px;
-	background: #fff;
+	background: rgb(171, 178, 174);
 	position: relative;
 	z-index: 1;
 	box-shadow: 0 0 10px rgba(136, 136, 136, 0.1);
