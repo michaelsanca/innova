@@ -73,8 +73,7 @@
                                 <li><a href="https://vm.tiktok.com/ZMBHrrjC8/"><i class="bi bi-tiktok"></i></a></li>   <!-- Icono de TikTok -->
                                 <li><a href="https://www.youtube.com/"><i class="bi bi-youtube"></i></a></li>   <!-- Icono de YouTube -->
                                 <li><a href="https://wa.link/7l7ik7"><i class="bi bi-whatsapp"></i></a></li>   <!-- Icono de WhatsApp -->
-                            </ul>
-  
+                                <li><a href="login.php"><i class="bi bi-box-arrow-in-right"></i></a></li>   <!-- Icono de Login (FontAwesome o Bootstrap) -->
                         </div>
                     </div>
                 </div>
@@ -98,7 +97,7 @@
                                             <a href="nosotros.php">NOSOTROS</a>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="ingresantes.php">INGRESANTES</a>
+                                            <a href="galeria.php">INGRESANTES</a>
                                         </li>
                                         <li class="menu-item-has-children">
                                             <a href="ciclos.php">CICLOS</a>

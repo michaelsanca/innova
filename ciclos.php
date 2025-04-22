@@ -297,6 +297,7 @@
                                 <a href="https://vm.tiktok.com/ZMBHrrjC8/"><i class="bi bi-tiktok"></i></a>   <!-- Icono de TikTok -->
                                 <a href="https://www.youtube.com/"><i class="bi bi-youtube"></i></a>   <!-- Icono de YouTube -->
                                 <a href="https://wa.link/7l7ik7"><i class="bi bi-whatsapp"></i></a>   <!-- Icono de WhatsApp -->
+                                <li><a href="login.php"><i class="bi bi-box-arrow-in-right"></i></a></li>   <!-- Icono de Login (FontAwesome o Bootstrap) -->
                             </div>
                         </div>
                     </div>
