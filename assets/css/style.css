@@ -1139,7 +1139,7 @@ label {
 .fortfolio-thumb::before {
 	position: absolute;
 	content: "";
-	background: rgba(146, 39, 143, 0.941);
+	background: rgb(241, 182, 195)!important;
 	left: 0;
 	top: 0;
 	width: 100%;

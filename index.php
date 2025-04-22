@@ -452,11 +452,10 @@
                     <div class="row text-center">
                         <div class="col-12">
                             <ul class="portfolio-menu">
-                                <li class="active" data-filter="*">see all</li>
-                                <li data-filter=".cat1">Branding</li>
-                                <li data-filter=".cat2">Creative</li>
-                                <li data-filter=".cat3">Illustration</li>
-                                <li data-filter=".cat4">Photoshgop</li>
+                                <li class="active" data-filter="*">Primera Oportunidad</li>
+                                <li data-filter=".cat1">ordinario</li>
+                                <li data-filter=".cat2">Dirimencia</li>
+                                <li data-filter=".cat3">Cepru</li>
                             </ul>
                         </div>
                     </div>
@@ -464,102 +463,102 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 grid-item mb-30 cat3 cat4 cat2">
                             <div class="portfolio-item">
                                 <div class="fortfolio-thumb">
-                                    <img src="assets/img/portfolio/port01.jpg" alt="">
+                                    <img src="assets/img/galeria/ordi1.jpg" alt="">
                                 </div>
                                 <div class="portfolio-content">
                                     <div class="content-view">
-                                        <a class="popup-image" href="assets/img/portfolio/port01.jpg"><i
+                                        <a class="popup-image" href="assets/img/galeria/ordi1.jpg"><i
                                                 class="icon fal fa-plus"></i></a>
                                     </div>
                                     <a href="#!">
-                                        <h3>Product Name Here</h3>
+                                        <h3>ver imagen </h3>
                                     </a>
-                                    <span>By: Kinter Theme</span>
+                                    <span>aga click en el +</span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 grid-item mb-30 cat1 cat2 cat4">
                             <div class="portfolio-item">
                                 <div class="fortfolio-thumb">
-                                    <img src="assets/img/portfolio/port02.jpg" alt="">
+                                    <img src="assets/img/galeria/ordi3.jpg" alt="">
                                 </div>
                                 <div class="portfolio-content">
                                     <div class="content-view">
-                                        <a class="popup-image" href="assets/img/portfolio/port02.jpg"><i
+                                        <a class="popup-image" href="assets/img/galeria/ordi3.jpg"><i
                                                 class="icon fal fa-plus"></i></a>
                                     </div>
                                     <a href="#!">
-                                        <h3>Product Name Here</h3>
+                                    <h3>ver imagen </h3>
                                     </a>
-                                    <span>By:Kinter Theme</span>
+                                    <span>aga click en el +</span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 grid-item mb-30 cat2 cat3 cat1">
                             <div class="portfolio-item">
                                 <div class="fortfolio-thumb">
-                                    <img src="assets/img/portfolio/port03.jpg" alt="">
+                                    <img src="assets/img/galeria/ordi5.jpg" alt="">
                                 </div>
                                 <div class="portfolio-content">
                                     <div class="content-view">
-                                        <a class="popup-image" href="assets/img/portfolio/port03.jpg"><i
+                                        <a class="popup-image" href="assets/img/galeria/ordi5.jpg"><i
                                                 class="icon fal fa-plus"></i></a>
                                     </div>
                                     <a href="#!">
-                                        <h3>Product Name Here</h3>
+                                    <h3>ver imagen </h3>
                                     </a>
-                                    <span>By: Kinter Theme</span>
+                                    <span>aga click en el +</span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 grid-item mb-30 cat1 cat2 cat4">
                             <div class="portfolio-item">
                                 <div class="fortfolio-thumb">
-                                    <img src="assets/img/portfolio/port04.jpg" alt="">
+                                    <img src="assets/img/galeria/ordi6.jpg" alt="">
                                 </div>
                                 <div class="portfolio-content">
                                     <div class="content-view">
-                                        <a class="popup-image" href="assets/img/portfolio/port04.jpg"><i
+                                        <a class="popup-image" href="assets/img/galeria/ordi6.jpg"><i
                                                 class="icon fal fa-plus"></i></a>
                                     </div>
                                     <a href="#!">
-                                        <h3>Product Name Here</h3>
+                                    <h3>ver imagen </h3>
                                     </a>
-                                    <span>By: Kinter Theme</span>
+                                    <span>aga click en el +</span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 grid-item mb-30 cat3 cat1 cat4">
                             <div class="portfolio-item">
                                 <div class="fortfolio-thumb">
-                                    <img src="assets/img/portfolio/port05.jpg" alt="">
+                                    <img src="assets/img/galeria/ordi4.jpg" alt="">
                                 </div>
                                 <div class="portfolio-content">
                                     <div class="content-view">
-                                        <a class="popup-image" href="assets/img/portfolio/port05.jpg"><i
+                                        <a class="popup-image" href="assets/img/galeria/ordi4.jpg"><i
                                                 class="icon fal fa-plus"></i></a>
                                     </div>
                                     <a href="#!">
-                                        <h3>Product Name Here</h3>
+                                    <h3>ver imagen </h3>
                                     </a>
-                                    <span>By: Kinter Theme</span>
+                                    <span>aga click en el +</span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 grid-item mb-30 cat3 cat4 cat2">
                             <div class="portfolio-item">
                                 <div class="fortfolio-thumb">
-                                    <img src="assets/img/portfolio/port06.jpg" alt="">
+                                    <img src="assets/img/galeria/ordi2.jpg" alt="">
                                 </div>
                                 <div class="portfolio-content">
                                     <div class="content-view">
-                                        <a class="popup-image" href="assets/img/portfolio/port06.jpg"><i
+                                        <a class="popup-image" href="assets/img/galeria/ordi2.jpg"><i
                                                 class="icon fal fa-plus"></i></a>
                                     </div>
                                     <a href="#!">
-                                        <h3>Product Name Here</h3>
+                                    <h3>ver imagen </h3>
                                     </a>
-                                    <span>By: Kinter Theme</span>
+                                    <span>aga click en el +</span>
                                 </div>
                             </div>
                         </div>
@@ -584,45 +583,39 @@
                         <div class="col-xl-4 col-lg-4 col-md-6">
                             <div class="blog-item mb-30">
                                 <div class="blog-image">
-                                    <a href="blog-details.html"><img src="assets/img/blog/blog-01.jpg" alt="blog image"></a>
+                                    <a href="blog-details.html"><img src="assets/img/blog/internado.jpg" alt="blog image"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="blog-meta ul_li">
-                                        <span><i class="far fa-user"></i>by <a href="#!">Wasim</a></span>
-                                        <span><i class="far fa-calendar-alt"></i>12th March 2021</span>
+                                        <span><i class="far fa-user"></i><a href="#!">Espacios Adecuados</a></span>
                                     </div>
-                                    <h4 class="blog-title"><a href="blog-details.html">Why children need a Healthy Environment</a></h4>
-                                    <a class="blog-btn" href="blog-details.html">Read More</a>
+                                    <h4 class="blog-title"><a href="">Contamos con un Anbiente equipado</a></h4>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6">
                             <div class="blog-item mb-30">
                                 <div class="blog-image">
-                                    <a href="blog-details.html"><img src="assets/img/blog/blog-02.jpg" alt="blog image"></a>
+                                    <a href="blog-details.html"><img src="assets/img/blog/camarote.jpg" alt="blog image"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="blog-meta">
-                                        <span><i class="far fa-user"></i>by <a href="#!">Wasim</a></span>
-                                        <span><i class="far fa-calendar-alt"></i>18th March 2021</span>
+                                        <span><i class="far fa-user"></i><a href="#!">Camarotes</a></span>
                                     </div>
-                                    <h4 class="blog-title"><a href="blog-details.html">Planting Seeds in the Hearts of Preschoolers</a></h4>
-                                    <a class="blog-btn" href="blog-details.html">Read More</a>
+                                    <h4 class="blog-title"><a href="blog-details.html">Contamos con Nuestra dormitorios comodos </a></h4>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6">
                             <div class="blog-item mb-30">
                                 <div class="blog-image">
-                                    <a href="blog-details.html"><img src="assets/img/blog/blog-03.jpg" alt="blog image"></a>
+                                    <a href="blog-details.html"><img src="assets/img/blog/cosina.jpg" alt="blog image"></a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="blog-meta">
-                                        <span><i class="far fa-user"></i>by <a href="#!">Wasim</a></span>
-                                        <span><i class="far fa-calendar-alt"></i>16th March 2021</span>
+                                        <span><i class="far fa-user"></i><a href="#!">Cosinera </a></span>
                                     </div>
-                                    <h4 class="blog-title"><a href="blog-details.html">Full-day kindergarten in Alberta another.</a></h4>
-                                    <a class="blog-btn" href="blog-details.html">Read More</a>
+                                    <h4 class="blog-title"><a href="blog-details.html">Alimentacion Balanceada.</a></h4>
                                 </div>
                             </div>
                         </div>
