@@ -395,7 +395,7 @@
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-8">
                     <div class="copyright-text">
-                        <p>	&copy; 2018 CCSM <a href="https://themeforest.net/user/xpressbuddy" target="_blank">XpressBuddy</a></p>
+                        <p>	&copy; 2018 CCSM <a href="" target="_blank">Innova</a></p>
                     </div>
                 </div>
             </div>
