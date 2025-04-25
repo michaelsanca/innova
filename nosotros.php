@@ -93,7 +93,7 @@
                                             <a href="nosotros.php">NOSOTROS</a>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="ingresantes.php">INGRESANTES</a>
+                                            <a href="galeria.php">INGRESANTES</a>
                                         </li>
                                         <li class="menu-item-has-children">
                                             <a href="ciclos.php">CICLOS</a>
